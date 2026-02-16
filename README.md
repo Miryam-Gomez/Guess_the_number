@@ -31,7 +31,10 @@ A simple Python console game where the computer selects a random number between 
 Make sure you have **Python 3** installed.
 
 Run the script from your terminal:
+
+```
 python guess_the_number.py
+```
 
 Follow the instructions shown on the screen.
 
