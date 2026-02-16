@@ -39,13 +39,13 @@ Follow the instructions shown on the screen.
 
 ## 📝 Example Gameplay
 
-Enter a number: 50
+\\\Enter a number: 50
 Higher
 Enter a number: 75
 Lower
 Enter a number: 62
 You guessed it!
-Attempts: 3
+Attempts: 3\\\
 
 ---
 
